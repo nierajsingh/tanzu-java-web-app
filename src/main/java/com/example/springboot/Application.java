@@ -32,8 +32,8 @@ public class Application {
 		};
 	}
 	
-	@Bean
-	public HttpTraceRepository htttpTraceRepository() {
-		return new InMemoryHttpTraceRepository();
-	}
+//	@Bean
+//	public HttpTraceRepository htttpTraceRepository() {
+//		return new InMemoryHttpTraceRepository();
+//	}
 }
