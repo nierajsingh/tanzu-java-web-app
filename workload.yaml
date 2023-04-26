@@ -39,4 +39,4 @@ spec:
     git:
       url: https://github.com/nierajsingh/tanzu-java-web-app
       ref:
-        branch: main
+        branch: spring-boot-3-native-workload
